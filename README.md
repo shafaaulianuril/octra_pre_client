@@ -6,6 +6,8 @@ a terminal wallet reminiscent of dos-era tui interfaces — but built with moder
 
 - shows your octra wallet balance and tx history  
 - lets you send one or many transactions  
+- supports private transfers with encryption/decryption
+- bulk claim multiple private transfers at once
 - exports your private key or full wallet file  
 
 ## works on
